@@ -1,0 +1,161 @@
+.container{
+    background-color: whitesmoke;
+}
+
+.one ul,li{
+    list-style-type: none;
+    display: inline;
+    word-spacing: 30px;
+    
+}
+
+#nav {
+    float: right;
+    /* text-align: right; */
+    /* display: inline-flex; */
+}
+
+#fix{
+    color: red;
+}
+
+#HM{
+    color: red;
+}
+.two{
+    text-indent: 40px;
+    padding-top: 60px;
+    margin-top: 20px;
+    font-size: xx-large;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
+#MS{
+    float: right;
+    padding-right: 100px;
+    background-color: white;
+    width: 400px;
+    margin-bottom: 700px; 
+}
+.button1{
+    background-color: red;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+#play{
+    width: 80px;
+    
+}
+#title{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.four{
+    display: flex;
+   border-color: red;
+}
+#pumaa{
+    font-size: x-large;
+    padding-left: 60px;
+}
+.button2{
+    background-color: red;
+    padding: 20px;
+    border-radius: 20px;
+}
+.button3{
+    background-color: red;
+    padding: 20px;
+    border-radius: 20px;
+}
+.button4{
+    background-color: red;
+    padding: 20px;
+    border-radius: 20px;
+}
+.button5{
+    background-color: red;
+    padding: 20px;
+    border-radius: 20px;
+}
+.pums{
+    transform: rotate(333deg);
+    height: min-content;
+    
+    
+}
+/* .four{
+    
+}
+.four{
+    border-radius: 25px;
+  background: #73AD21;
+  padding-right: 60px;
+  width: 200px;
+  height: 550px;
+    
+} */
+#man{
+    color: red;
+}
+.ones ul,li{
+    list-style-type: none;
+    display: inline;
+    word-spacing: 90px;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    
+}
+#titles{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.shoes5{
+    display: flex;
+    background-color: whitesmoke;
+    
+    
+}
+.style1{
+    border: solid;
+    /* border-radius: 40px; */
+    padding: 15px;
+    border-color: white;
+    background-color: whitesmoke;
+    justify-content: space-between;
+    justify-content: space-around;
+    justify-content: space-evenly;
+    width: 250px;
+    
+}
+.style2{
+    border: solid;
+    /* border-radius: 40px; */
+    padding: 15px;
+    border-color: white;
+    background-color: whitesmoke;
+    
+}
+#cs{
+    transform: rotate(333deg);
+}
+#love{
+    color: black;
+    font-size:30px;
+    text-shadow:2px 4px 6px cyan;
+     
+}
+
+@media (max-width: 600px) {
+    body {
+      background-color: olive;
+    }
+  }
+
+
+
