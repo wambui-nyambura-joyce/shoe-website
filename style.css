@@ -127,10 +127,10 @@
     padding: 15px;
     border-color: white;
     background-color: whitesmoke;
-    justify-content: space-between;
+    /* justify-content: space-between;
     justify-content: space-around;
-    justify-content: space-evenly;
-    width: 250px;
+    justify-content: space-evenly; */
+    /* width: 250px; */
     
 }
 .style2{
@@ -141,6 +141,16 @@
     background-color: whitesmoke;
     
 }
+.style3{
+    border: solid;
+    /* border-radius: 40px; */
+    padding: 15px;
+    padding-right: 100px;
+    border-color: white;
+    background-color: whitesmoke;
+    
+}
+
 #cs{
     transform: rotate(333deg);
 }
